@@ -24,7 +24,7 @@ I am currently a student of AltSchool Africa, Cloud DevOps Engineering. I have e
 - 💬 Ask me about Server Administration, Cloud Networking and Security, Web Servers, Infrastructure as Code, CI/CD Build tools, Version Control, Logging and Monitoring
 - 📫 How to reach me:john.omoseh002@gmail.com 
 - 😄 Pronouns: Him/he 
-- ⚡ Fun fact: I am a Student of Altschool Africa a
+- ⚡ Fun fact: I am a Student of Altschool Africa 
 
 <hr>
 <br>
